@@ -39,10 +39,10 @@ def staircase(n):
 
 
 if __name__ == '__main__':
-    with open('./input/staircase.txt', encoding='utf-8') as f:
+    with open('input/staircase.txt', encoding='utf-8') as f:
         data = f.readlines()
     n = int(data[0])
     result = staircase(n)
-    with open('./input/staircase_out.txt', 'w') as f:
+    with open('input/staircase_out.txt', 'w') as f:
         f.write(result)
 

@@ -14,7 +14,7 @@ def count_apple_orange(s, t, a, b, apples, oranges):
 
 
 if __name__ == '__main__':
-    with open('./input/count_apple_orange.txt', encoding='utf-8') as f:
+    with open('input/count_apple_orange.txt', encoding='utf-8') as f:
         data = f.readlines()
     data = [x.strip() for x in data]
     s, t = [int(i)for i in data[0].split(' ')]

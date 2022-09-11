@@ -21,7 +21,7 @@ def plus_minus(array, n):
 
 
 if __name__ == '__main__':
-    with open('./input/plus_minus.txt', encoding='utf-8') as f:
+    with open('input/plus_minus.txt', encoding='utf-8') as f:
         data = f.readlines()
 
     data = [x.strip() for x in data]
@@ -31,5 +31,5 @@ if __name__ == '__main__':
 
     result = plus_minus(array, n)
 
-    with open('./input/plus_minus_out.txt', 'w') as f:
+    with open('input/plus_minus_out.txt', 'w') as f:
         f.write(str(result))

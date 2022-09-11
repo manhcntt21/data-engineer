@@ -21,7 +21,7 @@ def diagonal_differences(array, n):
 
 
 if __name__ == '__main__':
-    with open('./input/diagonal_differences.txt', encoding='utf-8') as f:
+    with open('input/diagonal_differences.txt', encoding='utf-8') as f:
         data = f.readlines()
     data = [x.strip() for x in data]
     n = int(data[0])
@@ -29,5 +29,5 @@ if __name__ == '__main__':
     array = [[int(j) for j in i.split(' ')] for i in array]
     # arr = [for row in data]
     result = diagonal_differences(array, n)
-    with open('./input/diagonal_differences_out.txt', 'w') as f:
+    with open('input/diagonal_differences_out.txt', 'w') as f:
         f.write(str(result))
