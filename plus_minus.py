@@ -1,3 +1,5 @@
+# problem: https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true
+
 def plus_minus(array, n):
     result = []
     counter_pos_value = 0
