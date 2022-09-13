@@ -17,8 +17,12 @@ def binary_search(arr, l, r, x):
         elif x < arr[m]: return binary_search(arr, l, m-1, x)
         else: return binary_search(arr, m + 1, r, x)
     else:
-        return l + 1 if arr[l] < x else l
+        if r < 0:
+            return l + 1 if arr[l] < x else l
+        else:
+            return l if arr[l-1] < x else l - 1
+
 
 if __name__ == '__main__':
-    print(search_insert([1, 3, 5, 6], 0))
-    print(binary_search([1, 3, 5, 6], 0, 3, 5))
+    # print(search_insert([1, 3, 5, 6], 0))
+    print(binary_search([1, 3, 5, 6], 0, 3, 0))
