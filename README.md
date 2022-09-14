@@ -26,11 +26,11 @@ This solution for some practice problems on Hackerrank and LeetCode about data s
 # Outline
 1. [Hackerrank](#hackerrank)
    1. Data structures(#data-structures)
-   2. SQL(#sql-1)
+   2. SQL(#sql)
 
 2. [LeetCode](#leetcode)
    1. Algorithms(#algorithms)
-   2. SQL(#sql-2)
+   2. SQL(#database)
 # Hackerrank
 ## Domains
 ### Data structures
