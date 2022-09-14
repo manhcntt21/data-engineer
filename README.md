@@ -3,7 +3,7 @@
 ![Github](https://img.shields.io/github/stars/manhcntt21/data_structure_and_algorithms_python)
 ![Github](https://img.shields.io/github/forks/manhcntt21/data_structure_and_algorithms_python)
 
-<p>  
+<p align="center">  
     <br>
     <a href="https://www.hackerrank.com/manhcntt2_1">
         <img alt="" height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
@@ -12,7 +12,7 @@
     <br>
 </p>
 
-<p>  
+<p align="center">  
     <br>
     <a href="https://leetcode.com/Anonymous84/">
         <img alt="" height=100 src=https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg> 
@@ -24,12 +24,13 @@
 # Description
 This solution for some practice problems on Hackerrank and LeetCode about data structure and algorithms, SQL.
 # Outline
-* [Hackerrank](#hackerrank)
-   1. Data structure
-   2. SQL
+1. [Hackerrank](#hackerrank)
+   1. Data structures(#data-structures)
+   2. SQL(#sql-1)
+
 2. [LeetCode](#leetcode)
-   1. Algorithms
-   2. SQL
+   1. Algorithms(#algorithms)
+   2. SQL(#sql-2)
 # Hackerrank
 ## Domains
 ### Data structures
@@ -116,5 +117,15 @@ This solution for some practice problems on Hackerrank and LeetCode about data s
 |4|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[code](./leetcode/sql/customer_who_never_order.txt)|
 |5|[196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[code](./leetcode/sql/delete_duplicate_emails.txt)|
 |...|...|...|
+### Study Plan
+#### [Algorithms](https://leetcode.com/study-plan/algorithm/?progress=xe6m2x07)
+|Day 1: Binary Search|Number|Problem|Solution|
+|--------------------|:----:|-------|:------:|
+|                    |1|[Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/binary_search.py)|
+|                    |2|[First Bad Version](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/first_bad_version.py)|
+|                    |3|[Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/search_insert_position.py)|
+
+
+
 ## License
 This repository is licensed under MIT License - see [License](LICENSE.md) for more details
