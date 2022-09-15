@@ -107,7 +107,8 @@ This solution for some practice problems on Hackerrank and LeetCode about data s
 |4|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[code](./leetcode/search_insert_position.py)|
 |5|[Plus One](https://leetcode.com/problems/plus-one/)|[code](./leetcode/plus_one.py)|
 |6|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[code](./leetcode/merge_sorted_array.py)|
-|7|...|.|
+|7|[Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)|[code](./leetcode/most_frequent_even_element.py)
+|...|...|...|
 #### Database
 | Number | Problem |Solution|
 |:------:|---------|:------:|
