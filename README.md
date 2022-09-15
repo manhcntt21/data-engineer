@@ -124,7 +124,14 @@ This solution for some practice problems on Hackerrank and LeetCode about data s
 |                    |1|[Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/binary_search.py)|
 |                    |2|[First Bad Version](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/first_bad_version.py)|
 |                    |3|[Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/search_insert_position.py)|
-
+|Day 2: Two Pointers |Number|Problem|Solution|
+|--------------------|:----:|-------|:------:|
+|                    |1|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[code](./leetcode/study_plan/algorithms/squares_of_a_sorted_array.py)| 
+|                    |2|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[code](./leetcode/study_plan/algorithms/rotate.py)| 
+|Day 3: Two Pointers|Number|Problem|Solution|
+|--------------------|:----:|-------|:------:|
+|                    |1|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[code](./leetcode/study_plan/algorithms/move_zeroes.py)| 
+|                    |2|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[code](./leetcode/study_plan/algorithms/two_sum_II_input_array_is_sorted.py)| 
 
 
 ## License
