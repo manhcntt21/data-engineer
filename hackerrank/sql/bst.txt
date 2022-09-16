@@ -1,0 +1,9 @@
+select n,
+    ( case
+        when ISNULL(p) then 'Root'
+        when n in (select p from bst) then 'Inner'
+        else 'Leaf'
+        end
+    ) as type
+from bst
+order by n;

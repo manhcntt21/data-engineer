@@ -1,0 +1,20 @@
+select c.company_code, c.founder, count(DISTINCT e.lead_manager_code), count(DISTINCT e.senior_manager_code), count(DISTINCT e.manager_code), count(DISTINCT e.employee_code)
+from company c, employee e
+where c.company_code = e.company_code
+group by c.company_code, c.founder
+order by c.company_code;
+
+
+
+
+
+# run very slowly
+
+select e.company_code, c.founder, count(DISTINCT e.lead_manager_code), count(DISTINCT smc.senior_manager_code), count(DISTINCT m.manager_code), count(employee_code)
+from
+company c left join employee e on c.company_code = e.company_code
+right join lead_manager lm on lm.company_code = e.company_code
+right join senior_manager smc on smc.senior_manager_code = e.senior_manager_code
+right join manager m on m.manager_code = e.manager_code
+group by e.company_code, c.founder
+order by e.company_code;
