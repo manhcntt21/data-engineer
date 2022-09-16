@@ -68,25 +68,44 @@ This solution for some practice problems on Hackerrank and LeetCode about data s
 |17|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[SQL](./hackerrank/sql/higher_than_75_marks.txt)|
 |18|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[SQL](./hackerrank/sql/employee_names.txt)|
 |19|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[SQL](./hackerrank/sql/employee_salaries.txt)|
+|20|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|[code](./hackerrank/sql/weather-observation-station-14.txt)|
+|21|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|[code](./hackerrank/sql/weather-observation-station-15.txt)|
+|22|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|[code](./hackerrank/sql/weather-observation-station-16.txt)|
+|23|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|[code](./hackerrank/sql/weather-observation-station-17.txt)|
+|24|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|[code](./hackerrank/sql/weather-observation-station-18.txt)|
+|25|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[code](./hackerrank/sql/weather-observation-station-19.txt)
+|26|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[code](./hackerrank/sql/weather-observation-station-20.txt)|
+|...|...|...|
 
 #### Advanced Select
 | Number | Problem |Solution|
 |:------:|---------|:------:|
+|1|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[code](./hackerrank/sql/type_of_triangle.txt)|
+|2|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[code](./hackerrank/sql/the_pads.txt)|
+|3|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[code](./hackerrank/sql/occupations.txt)|
+|4|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[code](./hackerrank/sql/bst.txt)|
+|5|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|[code](./hackerrank/sql/the-company.txt)|
 |...|...|...|
 
 #### Aggregation
 | Number | Problem |Solution|
 |:------:|---------|:------:|
-|1|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|[SQL](./hackerrank/sql/average_population.txt)|
-|2|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[SQL](./hackerrank/sql/revising_aggregations_averages.txt)|
-|3|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[SQL](./hackerrank/sql/japan_population.txt)|
-|4|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[SQL](./hackerrank/sql/population_density_difference.txt)|
-|5|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|[SQL](./hackerrank/sql/the_blunder.txt)|
-|6|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|[SQL](./hackerrank/sql/top_earners.txt)|
-
+|1|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|[code](./hackerrank/sql/revising_aggregations_the_count_function.txt)|
+|2|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|[code](hackerrank/sql/revising-aggregations-sum.txt)|
+|3|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|[SQL](./hackerrank/sql/average_population.txt)|
+|4|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[SQL](./hackerrank/sql/revising_aggregations_averages.txt)|
+|5|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[SQL](./hackerrank/sql/japan_population.txt)|
+|6|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[SQL](./hackerrank/sql/population_density_difference.txt)|
+|7|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|[SQL](./hackerrank/sql/the_blunder.txt)|
+|8|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|[SQL](./hackerrank/sql/top_earners.txt)|
+|9|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|[code](./hackerrank/sql/weather-observation-station-2.txt)|
+|10|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)|[code](./hackerrank/sql/weather-observation-station-20.txt)|
 #### Basic Join
 | Number | Problem |Solution|
 |:------:|---------|:------:|
+|1|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem)|[code](./hackerrank/sql/asian-population.txt)|
+|2|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[code](./hackerrank/sql/african-cities.txt)|
+|3|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|[code](./hackerrank/sql/average-population-of-each-continent.txt)|
 |...|...|...|
 #### Advanced Join
 | Number | Problem |Solution|
@@ -133,7 +152,9 @@ This solution for some practice problems on Hackerrank and LeetCode about data s
 |--------------------|:----:|-------|:------:|
 |                    |1|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[code](./leetcode/study_plan/algorithms/move_zeroes.py)| 
 |                    |2|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[code](./leetcode/study_plan/algorithms/two_sum_II_input_array_is_sorted.py)| 
-
-
+|Day 4: Two Pointers|Number|Problem|Solution|
+|--------------------|:----:|-------|:------:|
+|                    |1|[Reverse String](https://leetcode.com/problems/reverse-string/)|[code](./leetcode/study_plan/algorithms/reverse_string.py)|  
+|                    |2|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[code](./leetcode/study_plan/algorithms/reverse_words_in_a_string.py)|
 ## License
 This repository is licensed under MIT License - see [License](LICENSE.md) for more details
