@@ -144,17 +144,56 @@ This solution for some practice problems on Hackerrank and LeetCode about data s
 |                    |1|[Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/binary_search.py)|
 |                    |2|[First Bad Version](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/first_bad_version.py)|
 |                    |3|[Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)|[code](./leetcode/study_plan/algorithms/search_insert_position.py)|
+
 |Day 2: Two Pointers |Number|Problem|Solution|
 |--------------------|:----:|-------|:------:|
 |                    |1|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[code](./leetcode/study_plan/algorithms/squares_of_a_sorted_array.py)| 
 |                    |2|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[code](./leetcode/study_plan/algorithms/rotate.py)| 
+
 |Day 3: Two Pointers|Number|Problem|Solution|
 |--------------------|:----:|-------|:------:|
 |                    |1|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[code](./leetcode/study_plan/algorithms/move_zeroes.py)| 
 |                    |2|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[code](./leetcode/study_plan/algorithms/two_sum_II_input_array_is_sorted.py)| 
+
 |Day 4: Two Pointers|Number|Problem|Solution|
 |--------------------|:----:|-------|:------:|
 |                    |1|[Reverse String](https://leetcode.com/problems/reverse-string/)|[code](./leetcode/study_plan/algorithms/reverse_string.py)|  
 |                    |2|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[code](./leetcode/study_plan/algorithms/reverse_words_in_a_string.py)|
+
+|Day 5: Two Pointers|Number|Problem|Solution|
+|--------------------|:----:|-------|:------:|
+|                    |1|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[code](./leetcode/study_plan/algorithms/middle_of_the_linked_list.py)|
+### Leetcode Explore
+#### Array 101
+| Number | Problem |Solution|
+|:------:|---------|:------:|
+|1|[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[code](./leetcode/explore/array_101/max_consecutive_I.py)|
+|2|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[code](./leetcode/explore/array_101/find_numbers_with_even_number_of_digits.py)|
+|3|[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[code](./leetcode/explore/array_101/square_of_sorted_array.py)|
+|4|[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[code](./leetcode/explore/array_101/duplicate_zeros.py)|
+|5|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[code](./leetcode/explore/array_101/merge_sorted_array.py)|
+|6|[27. Remove Element](https://leetcode.com/problems/remove-element/)|[code](./leetcode/explore/array_101/remove_element.py)|
+|7|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[code](./leetcode/explore/array_101/remove_duplicate.py)|
+|8|[1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[code](./leetcode/explore/array_101/check_if_exists.py)|
+|9|[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[code](./leetcode/explore/array_101/valid_mountain_array.py)|
+|10|[1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[code](./leetcode/explore/array_101/replace_elements.py)|
+|11|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[code](./leetcode/explore/array_101/move_zeros.py)|
+|12|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[code](./leetcode/explore/array_101/sorted_array_by_parity.py)|
+|13|[1051. Height Checker](https://leetcode.com/problems/height-checker/)|[code](./leetcode/explore/array_101/height_checker.py)|
+|14|[487 Max Consecutive Ones II]()|[code](./leetcode/explore/array_101/max_consecutive_II.py)|
+|15|[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[code](./leetcode/explore/array_101/third_maximum_number.py)|
+|16|[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[code](./leetcode/explore/array_101/find_disappeared_numbers.py)|
+### Contest
+#### Weekly contest
+Contest 311
+
+| Number | Problem |Solution|
+|:------:|---------|:------:|
+|1|[2413. Smallest Even Multiple](https://leetcode.com/contest/weekly-contest-311/problems/smallest-even-multiple/)|[code](./leetcode/contest/weekly_contest_311/smallest_even_multiple.py)|
+|2|[2414. Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/contest/weekly-contest-311/problems/length-of-the-longest-alphabetical-continuous-substring/)|[code](./leetcode/contest/weekly_contest_311/longest_alphabetical_continuous_substring.py)|
+|...|...|...|
+
+
+#### Biweekly contest
 ## License
 This repository is licensed under MIT License - see [License](LICENSE.md) for more details
